@@ -16,4 +16,5 @@ Question 1)Create project with Rectangle as a base class.
    
    
    
-   The screenshot of the outputs are shares in the respective Question folders.!
+   **The screenshot of the outputs are shared in the respective Question folders.!
+**
